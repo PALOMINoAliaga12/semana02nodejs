@@ -6,5 +6,5 @@ const port = 3000;
 app.use(routes);
 
 app.listen(port, () => {
-    console.log(`Server on port ${port}`);
+    console.log(`Server on port ${3000}`);
 });
